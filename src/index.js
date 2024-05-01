@@ -1,0 +1,1 @@
+let netlifyLink = document.querySelector("#netlify-link");

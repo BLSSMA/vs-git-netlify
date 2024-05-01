@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:darkolivegreen;
+}
+
+.contact-btn{
+    background-color: darkblue;
+    color:white;
+    padding:20px;
+    display:block;
+    margin:0 auto;
+    width: 200px;
+    text-align: center;
+}
+
+.netlifyLink{
+    text-decoration: none;
+    color:darkslateblue;
+}
+
+.netlifyLink.hover{
+    color:lightblue;
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+    max-width:600px;
+    padding-top:100px;
+}
